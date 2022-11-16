@@ -17,3 +17,7 @@ Last lines prevent conflict
   Therefore, some errors could not be shown in Windows local machine. In this case:
   ![1ц](https://user-images.githubusercontent.com/45449130/200333621-37269eab-7348-4dfb-9e79-ecceba322ea9.PNG)
   Original code line was: from '../utils/onboard.js', however file name was Onboard.js
+
+
+3) StarWars theme
+  ![image](https://user-images.githubusercontent.com/45449130/202151465-5feb0420-6ae3-4bfd-b024-f7f8df41aa89.png)
